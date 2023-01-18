@@ -38,7 +38,7 @@
                 "isVis": "otherHealth_item === 0"
                 },
 		{"isAbout": "items/appID_item",
-                "variableName": appID_item",
+                "variableName": "appID_item",
                 "isVis": true
                 }
         ],
