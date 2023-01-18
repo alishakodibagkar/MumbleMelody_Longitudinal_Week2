@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What are some of your personal “rules” that you never break? Why?",
+                "name": "What is your go-to karaoke song and why?",
                 "value": 0
             },
             {
-                "name": "Who in your life brings you the most joy? Tell me about them.",
+                "name": "If you could have one superpower, which one would it be and why?",
                 "value": 1
             }
         ]

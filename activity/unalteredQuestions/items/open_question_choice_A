@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": " What smell brings back great memories? Tell me about it.",
+                "name": "Tell me about your oldest memory.",
                 "value": 0
             },
             {
-                "name": "If you could time travel, when would you go and why?",
+                "name": "Talk about the first time you were away from home.",
                 "value": 1
             }
         ]

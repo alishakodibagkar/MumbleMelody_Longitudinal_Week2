@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is the most unnecessary thing you own?",
+                "name": "What is a problem you have had that you are proud to have solved, and how did you solve it?",
                 "value": 0
             },
             {
-                "name": "If you could have intro music, what would it be? Why?",
+                "name": "If your mind was an island, what would it look like?",
                 "value": 1
             }
         ]

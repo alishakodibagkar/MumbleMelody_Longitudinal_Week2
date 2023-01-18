@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "If you opened a business, what kind of business would it be?",
+                "name": "Who’s the oldest person you know personally? What interesting stories have they told you?",
                 "value": 0
             },
             {
-                "name": "What would you do if you became a billionaire tomorrow?",
+                "name": "What topic could you spend hours talking about?",
                 "value": 1
             }
         ]

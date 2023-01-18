@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Does fashion help society in any way?",
+                "name": "If you could make a holiday, what would it be like? What traditions would it have? What would people eat on your holiday?",
                 "value": 0
             },
             {
-                "name": " If you opened a business, what kind of business would it be?",
+                "name": "Who’s the oldest person you know personally? What interesting stories have they told you?",
                 "value": 1
             }
         ]

@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "If you could time travel, when would you go and why?",
+                "name": "Talk about the first time you were away from home",
                 "value": 0
             },
             {
-                "name": " Describe a city scene 30 years from now.",
+                "name": "What could you give a 40-minute presentation on with absolutely no preparation?",
                 "value": 1
             }
         ]

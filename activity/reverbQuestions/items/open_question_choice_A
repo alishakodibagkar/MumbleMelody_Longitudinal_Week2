@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is the most unnecessary thing you own?",
+                "name": "What is a problem you have had that you are proud to have solved, and how did you solve it?",
                 "value": 0
             },
             {
-                "name": "How should success be measured? By that measurement, who is the most successful person you know?",
+                "name": "What is one object from your childhood that you could never throw away?",
                 "value": 1
             }
         ]

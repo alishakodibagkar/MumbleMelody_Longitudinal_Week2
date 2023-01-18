@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": " What smell brings back great memories? Tell me about it.",
+                "name": "Tell me about your oldest memory.",
                 "value": 0
             },
             {
-                "name": " Describe a city scene 30 years from now.",
+                "name": "What could you give a 40-minute presentation on with absolutely no preparation?",
                 "value": 1
             }
         ]

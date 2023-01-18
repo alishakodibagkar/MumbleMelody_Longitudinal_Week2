@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Who in your life brings you the most joy? Tell me about them.",
+                "name": "If you could have one superpower, which one would it be and why?",
                 "value": 0
             },
             {
-                "name": "If you could make a new law or pass a policy what would it be?",
+                "name": "What is an invention that you have seen happen in your lifetime that you would not have expected?",
                 "value": 1
             }
         ]

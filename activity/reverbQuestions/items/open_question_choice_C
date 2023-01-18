@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "How should success be measured? By that measurement, who is the most successful person you know?",
+                "name": "What is one object from your childhood that you could never throw away?",
                 "value": 0
             },
             {
-                "name": "If you could have intro music, what would it be? Why?",
+                "name": "If your mind was an island, what would it look like?",
                 "value": 1
             }
         ]

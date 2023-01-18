@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is the most useful thing you own?",
+                "name": "What are 3 objects you would rescue from a fire?",
                 "value": 0
             },
             {
-                "name": "What is the strangest dream you’ve ever had?",
+                "name": "Who is your oldest friend? How did you meet them?",
                 "value": 1
             }
         ]
