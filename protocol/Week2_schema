@@ -6,9 +6,9 @@
         }
     ],
     "@type": "reproschema:Protocol",
-    "@id": "Week1_schema",
+    "@id": "Week2_schema",
     "prefLabel": {
-        "en": "Week1 Session"
+        "en": "Week2 Session"
     },
     "description": "Week 2 Testing Session for Mumble Melody Longitudinal Study",
     "schemaVersion": "1.0.0-rc4",
