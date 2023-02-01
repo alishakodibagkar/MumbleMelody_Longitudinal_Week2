@@ -12,10 +12,15 @@
 		{"isAbout": "items/fluencyToday_item",
                 "variableName": "fluencyToday_item",
                 "isVis": true
+                },
+		{"isAbout": "items/appID_item",
+                "variableName": "appID_item",
+                "isVis": true
                 }
         ],
         "order": [
-	    "items/fluencyToday_item"
+	    "items/fluencyToday_item",
+            "items/appID_item"
         ],
         "shuffle": false,
         "allow": [
